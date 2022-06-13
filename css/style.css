@@ -1,0 +1,78 @@
+ 
+.W-1{
+    
+    width: 173px;
+    height: 50px;
+}
+.pe-200{
+    padding-right: 150px;
+  
+}
+.navbar{
+    box-shadow: 2PX;
+}
+.col-md-5{
+    margin-top: 20px;
+}
+.nav-link{
+    
+    color: blue;
+    padding-right: 100px;
+    padding: 100px;
+    width: 50px;
+}
+.w-75{
+    margin-top: 100px !important;
+}
+.wOW{
+    margin-top: 100px !important;
+}
+.ayoub{
+    background-color: rgb(223, 206, 238);
+}
+.btn{
+    background-color: blue;
+    width: 150px;
+    height: 60px;
+    border-radius: 5%;
+    border: 0PX !important;
+    color: white;
+     font-weight: bolder;
+}
+.btn-outline-primary {
+    color: #0065ff;
+    background-color: white;
+     
+    border-color: #0065ff !important;
+    position: absolute;
+    right:500px;
+}
+.img-fluid{
+    margin-top: 100px;
+}
+.container1{
+    margin-top: 200px;
+}
+.parag{
+    color: gray;
+}
+ .row1{
+     position: absolute;
+     left:456px;
+ }
+ .col-lg-6{
+     margin-top: 200px;
+ }
+ .border{
+     border: solid 10px;
+ }
+ .col-md-6{
+     display: flex;
+     
+ }
+ .img{
+     margin-right: 50px !important;
+ }
+ .ebay{
+     background-color: #e6fcff;
+ }
